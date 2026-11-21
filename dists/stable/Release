@@ -1,0 +1,20 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 21 Nov 2026 19:59:02 +0000
+Description: ollama-desktop (Debian trixie)
+Label: ollama-desktop
+Origin: ollama-desktop
+Suite: stable
+MD5Sum:
+ 98a198e554426990deca9771dc4a1b57            12617 main/binary-amd64/Packages
+ f91a429047a0eee7124bdfd107cc2b64             3338 main/binary-amd64/Packages.gz
+SHA1:
+ ded9d73c9b8cd5dc0f11ff9fa12435896eb39b60            12617 main/binary-amd64/Packages
+ ef4c8b39f76794e9467943d1bf5d0fb945bbaea9             3338 main/binary-amd64/Packages.gz
+SHA256:
+ fd29ac99043aeeb0fb0223bd8c407a4b24ec8abff6fdddebcad5f0c1c9a6db36            12617 main/binary-amd64/Packages
+ 0f8d6010dd4c7299777f67c54e86ac4bbb50f31121971045fb00602ad244640f             3338 main/binary-amd64/Packages.gz
+SHA512:
+ 4a6d4fca384b65340ea1b75b3354536d2e299c5503b1cf28ad175f6d9c188eccd5640ece89134f8212e419bdeacaf6a300e8cf84832f6606ce80773f2aecd1e8            12617 main/binary-amd64/Packages
+ d0ba27cba2f574a0dd4bca4077ca5a640a00bb53515ec02953ec1192abef098c2a33aa0ad3e8ea8081de24b4398e6d90f1062462bd7bceb815bdcf24b25e89d1             3338 main/binary-amd64/Packages.gz

@@ -1,0 +1,213 @@
+Package: ollama-desktop-webview
+Architecture: amd64
+Version: 0.306.4-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 662
+Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.66.0), libgtk-3-0t64 (>= 3.9.10), libjavascriptcoregtk-4.1-0, libsoup-3.0-0 (>= 3.0.3), libwebkit2gtk-4.1-0 (>= 2.35.1), ollama-desktop
+Filename: pool/main/o/ollama-desktop-webview/ollama-desktop-webview_0.306.4-1_amd64.deb
+Size: 247244
+MD5sum: 312e6a918bb527ced980f58fbc8e1b80
+SHA1: d5f1641c522f70e2c52d6fb2fc117db99ef0e084
+SHA256: ba45247dcb8d07af22b075f3c833c42e9bef5946a532e305a48491154b859a95
+SHA512: d18d4a1ca4832aa4471d2b77c29320ddc91c8975e61c87ca507846473e6fdaf811fd2d66ba5245731687986b7ac5b1ad73783906f53fd814a73def56e33cdd1a
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ Pagalbinė ollama-desktop programa: tikra naršyklė (WebKitGTK) atskirame
+ lange (ChatGPT, Gemini ar bet koks puslapis su JavaScript ir prisijungimu).
+
+Package: ollama-desktop-webview
+Architecture: amd64
+Version: 0.306.5-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 662
+Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.66.0), libgtk-3-0t64 (>= 3.9.10), libjavascriptcoregtk-4.1-0, libsoup-3.0-0 (>= 3.0.3), libwebkit2gtk-4.1-0 (>= 2.35.1), ollama-desktop
+Filename: pool/main/o/ollama-desktop-webview/ollama-desktop-webview_0.306.5-1_amd64.deb
+Size: 247408
+MD5sum: c01ce1f41f45832c2f738aa26d4d013a
+SHA1: 59b92ab2f9cce7d710cfab6881aea7f1812d94fd
+SHA256: d2e21e13d3e65a3cf8a8a3bae25d219a86acc30bc32137a4da7a2da88ffd0df3
+SHA512: 70d953bc1044e9ef442b565c54de5cf40cbb4dfc4079d4d2d79969af29fec20d3ed4ed645ff0f907294e10b453c85195aa649a3e018c6569c0620168529c6958
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ Pagalbinė ollama-desktop programa: tikra naršyklė (WebKitGTK) atskirame
+ lange (ChatGPT, Gemini ar bet koks puslapis su JavaScript ir prisijungimu).
+
+Package: ollama-desktop-webview
+Architecture: amd64
+Version: 0.306.6-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 662
+Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.66.0), libgtk-3-0t64 (>= 3.9.10), libjavascriptcoregtk-4.1-0, libsoup-3.0-0 (>= 3.0.3), libwebkit2gtk-4.1-0 (>= 2.35.1), ollama-desktop
+Filename: pool/main/o/ollama-desktop-webview/ollama-desktop-webview_0.306.6-1_amd64.deb
+Size: 247464
+MD5sum: 24517bb3a19a11ccf1f321885a66dba0
+SHA1: fca49124da29738c6e3c37c7340786d3b0835c0e
+SHA256: 1de46c3a2a60dae4ffd4f9ac1605219dd7a6bae13b13da9af99acbd5e13769d1
+SHA512: efd7df7c887a775fa42e07a7353728afd256a3b613f1925ec82ce23f556704623c9f14530a749a03c262d2fd9fe6e97dbe203249bebe6db570a3f36b90526b48
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ Pagalbinė ollama-desktop programa: tikra naršyklė (WebKitGTK) atskirame
+ lange (ChatGPT, Gemini ar bet koks puslapis su JavaScript ir prisijungimu).
+
+Package: ollama-desktop-webview
+Architecture: amd64
+Version: 0.306.8-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 662
+Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.66.0), libgtk-3-0t64 (>= 3.9.10), libjavascriptcoregtk-4.1-0, libsoup-3.0-0 (>= 3.0.3), libwebkit2gtk-4.1-0 (>= 2.35.1), ollama-desktop
+Filename: pool/main/o/ollama-desktop-webview/ollama-desktop-webview_0.306.8-1_amd64.deb
+Size: 247452
+MD5sum: ab0ff2d09337cd2947011b01972271f6
+SHA1: 8b674fa86e406821674df96accd727b874849fa1
+SHA256: db48ca51143000cd5cc81dfeb0d5a0ad6a72da11e19bd63238f40b5dd5f9bb5c
+SHA512: ea01d91037135ebc480da82e02fcaa374cbb2195ec9bdba9e8e494a22c942f3b3181898f4ad97062686f9b5b1a352ea599ab700b8dd86c523d3afe2887e81b77
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ Pagalbinė ollama-desktop programa: tikra naršyklė (WebKitGTK) atskirame
+ lange (ChatGPT, Gemini ar bet koks puslapis su JavaScript ir prisijungimu).
+
+Package: ollama-desktop-webview
+Architecture: amd64
+Version: 0.313.0-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 662
+Depends: libc6 (>= 2.34), libglib2.0-0t64 (>= 2.66.0), libgtk-3-0t64 (>= 3.9.10), libjavascriptcoregtk-4.1-0, libsoup-3.0-0 (>= 3.0.3), libwebkit2gtk-4.1-0 (>= 2.35.1), ollama-desktop
+Filename: pool/main/o/ollama-desktop-webview/ollama-desktop-webview_0.313.0-1_amd64.deb
+Size: 247152
+MD5sum: b099a08dab8996e03d55c820885bccee
+SHA1: 9ca3e75bfee651ed4234c881d5ba8c40dc414e45
+SHA256: b40b1cbeebfddf76174c68e7b3e501a8af6719f2be7b5d8bba63ae5f219b4dcf
+SHA512: d98adc410de209e3a0b12f0c6b9c86b0780d7293789b4eff6311752c4589caa694197fee684571d43c8dfa4d0b96d039975ee6f81ee49f68dbeac5ba7049ecea
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ Pagalbinė ollama-desktop programa: tikra naršyklė (WebKitGTK) atskirame
+ lange (ChatGPT, Gemini ar bet koks puslapis su JavaScript ir prisijungimu).
+
+Package: ollama-desktop
+Architecture: amd64
+Version: 0.306.4-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 62822
+Depends: bubblewrap, dbus-user-session, fontconfig, fonts-dejavu-core, git, libc6 (>= 2.39), libegl1, libpam-modules-bin, libxkbcommon-x11-0, mpv, openssh-client, pipewire-bin, pipewire-pulse, wireplumber, xdg-utils, xinit, xserver-xorg-core, xserver-xorg-input-libinput, yt-dlp
+Recommends: i3lock, ffmpeg, cava, pulseaudio-utils, udisks2, bluez, openvpn, gnome-keyring, cups-client, system-config-printer, polkitd, pkexec, x11-xserver-utils, fonts-jetbrains-mono
+Suggests: network-manager
+Filename: pool/main/o/ollama-desktop/ollama-desktop_0.306.4-1_amd64.deb
+Size: 18662032
+MD5sum: cdf3d757f31c0e3126bf204f9e313cca
+SHA1: c7e9546cc248b40e2af95ddb8ba215c91a15664d
+SHA256: 666f6c1531a7ec346071f2c68bf7f3b23755195539f79573aa4e998f06bac6bc
+SHA512: 25572db68315026ec4a093aeca51b24df264434efab4a33d2eb4e7a6f5a8c3eb7b735e6cb9db8b1c9efbcf19192bec21992b429461098880df9afc96af5320a4
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ AI darbalaukis Linux'ui: pati langų tvarkyklė (X11), kurioje vietinis Ollama
+ modelis mato ir valdo kodą, terminalą, failus, naršyklę ir sistemą.
+
+Package: ollama-desktop
+Architecture: amd64
+Version: 0.306.5-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 62802
+Depends: bubblewrap, dbus-user-session, fontconfig, fonts-dejavu-core, git, libc6 (>= 2.39), libegl1, libpam-modules-bin, libxkbcommon-x11-0, mpv, openssh-client, pipewire-bin, pipewire-pulse, wireplumber, xdg-utils, xinit, xserver-xorg-core, xserver-xorg-input-libinput, yt-dlp
+Recommends: i3lock, ffmpeg, cava, pulseaudio-utils, udisks2, bluez, openvpn, gnome-keyring, cups-client, system-config-printer, polkitd, pkexec, x11-xserver-utils, fonts-jetbrains-mono
+Suggests: network-manager
+Filename: pool/main/o/ollama-desktop/ollama-desktop_0.306.5-1_amd64.deb
+Size: 18633280
+MD5sum: bc4c2d4d1735b90f52282179370a94d5
+SHA1: 5129c1b95003d10e1c106e5d40ce095543d37d71
+SHA256: cf20ad0d139784c8b23fd027b7466663e17d91ff960fef7686cf4ff6c8f0a57b
+SHA512: f5e412f53e203db596bde6e5181ca332841bf96cafc080da247962679451c42e0c982191f762f84ec8b974cf6e39e6b1c07cab2b075365116448e8391de5e61f
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ AI darbalaukis Linux'ui: pati langų tvarkyklė (X11), kurioje vietinis Ollama
+ modelis mato ir valdo kodą, terminalą, failus, naršyklę ir sistemą.
+
+Package: ollama-desktop
+Architecture: amd64
+Version: 0.306.6-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 63194
+Depends: bubblewrap, dbus-user-session, fontconfig, fonts-dejavu-core, git, libc6 (>= 2.39), libegl1, libpam-modules-bin, libxkbcommon-x11-0, mpv, openssh-client, pipewire-bin, pipewire-pulse, wireplumber, xdg-utils, xinit, xserver-xorg-core, xserver-xorg-input-libinput, yt-dlp
+Recommends: i3lock, ffmpeg, cava, pulseaudio-utils, udisks2, bluez, openvpn, gnome-keyring, cups-client, system-config-printer, polkitd, pkexec, x11-xserver-utils, fonts-jetbrains-mono
+Suggests: network-manager
+Filename: pool/main/o/ollama-desktop/ollama-desktop_0.306.6-1_amd64.deb
+Size: 18702204
+MD5sum: 83797db2150b81635c0747db50593b3c
+SHA1: 7614a15d49c3ae8f01a10f382f8915e02897e270
+SHA256: e5801e5fc2c0afc612a0084c7d6bacce9b224c6a2bf8689196954267d8b9413f
+SHA512: 467e00e50e80eb15c4df5058ada05efacd36b4c5fc3e2d4ad460d8cb7e9ceaeb3721d136003583d135e9bf0ae6634f081f347be2c81e0542a72085f8e6e0c251
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ AI darbalaukis Linux'ui: pati langų tvarkyklė (X11), kurioje vietinis Ollama
+ modelis mato ir valdo kodą, terminalą, failus, naršyklę ir sistemą.
+
+Package: ollama-desktop
+Architecture: amd64
+Version: 0.306.8-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 62984
+Depends: bubblewrap, dbus-user-session, fontconfig, fonts-dejavu-core, git, libc6 (>= 2.39), libegl1, libpam-modules-bin, libxkbcommon-x11-0, mpv, openssh-client, pipewire-bin, pipewire-pulse, wireplumber, xdg-utils, xinit, xserver-xorg-core, xserver-xorg-input-libinput, yt-dlp
+Recommends: i3lock, ffmpeg, cava, pulseaudio-utils, udisks2, bluez, openvpn, gnome-keyring, cups-client, system-config-printer, polkitd, pkexec, x11-xserver-utils, fonts-jetbrains-mono
+Suggests: network-manager
+Filename: pool/main/o/ollama-desktop/ollama-desktop_0.306.8-1_amd64.deb
+Size: 18721576
+MD5sum: 9a6af73cfdb817d02542f971d86ffe67
+SHA1: 764ff7affd0e76f40802257cfce8f0569d45b6e1
+SHA256: a922ae71e73a451daef74974740c33191bbec1eed3b0c0e4ad4a596f66820171
+SHA512: 511ea32c98b8d064cae2f36b802887a5fa4a8d77570d1096e6986490e873797c38f56a59cdaab45853ed379e40eaab2078bd280f3a07822a15c31925e0cf4411
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ AI darbalaukis Linux'ui: pati langų tvarkyklė (X11), kurioje vietinis Ollama
+ modelis mato ir valdo kodą, terminalą, failus, naršyklę ir sistemą.
+
+Package: ollama-desktop
+Architecture: amd64
+Version: 0.313.0-1
+Priority: optional
+Section: x11
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 63752
+Depends: bubblewrap, dbus-user-session, fontconfig, fonts-dejavu-core, git, libc6 (>= 2.39), libegl1, libpam-modules-bin, libxkbcommon-x11-0, mpv, openssh-client, pipewire-bin, pipewire-pulse, wireplumber, xdg-utils, xinit, xserver-xorg-core, xserver-xorg-input-libinput, yt-dlp
+Recommends: i3lock, ffmpeg, cava, pulseaudio-utils, udisks2, bluez, openvpn, gnome-keyring, cups-client, system-config-printer, polkitd, pkexec, x11-xserver-utils, fonts-jetbrains-mono
+Suggests: network-manager
+Filename: pool/main/o/ollama-desktop/ollama-desktop_0.313.0-1_amd64.deb
+Size: 18833700
+MD5sum: c848b4b9dfa42ad043998524849ef73f
+SHA1: de31a0b164e428be8cca0b4d9b2e32b831f07c13
+SHA256: e734881d3396381012f1be8cf28d3755a490c9d5fb4f1ec8135d90b07810ec65
+SHA512: da92428c0e3a4e69773cac488730993fab7d639caa418b71c87ea923fda616fe91154dbec65157c55a7c07b136c03b5d4290479f65ca8b291b093148f6ed58fb
+Description: AI darbalaukis Linux'ui — langų tvarkyklė su vietiniu Ollama modeliu
+ AI darbalaukis Linux'ui: pati langų tvarkyklė (X11), kurioje vietinis Ollama
+ modelis mato ir valdo kodą, terminalą, failus, naršyklę ir sistemą.
+
+Package: ollama
+Architecture: amd64
+Version: 0.40.16-1
+Priority: optional
+Section: utils
+Maintainer: svaikaxx-ops <svaikaxx-ops@users.noreply.github.com>
+Installed-Size: 117972
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.4), libstdc++6 (>= 10.2), systemd
+Recommends: libvulkan1, mesa-vulkan-drivers
+Filename: pool/main/o/ollama/ollama_0.40.16-1_amd64.deb
+Size: 22666932
+MD5sum: 752b66d13d90f7660db3d0c168f8f480
+SHA1: 18f630391297b1fa280097072ae6d870f994b0ad
+SHA256: 3d1ced343abd91c6d82262411f9407dd8e94b0ea55d90e63c81ca5b2d6e672d0
+SHA512: f1cc1dc625ef1b01fb4e89d91db2f55699318fb29d1aa97934dce78f7d02befd3bde9ea3053be02a0b75eadc203c7b50d670093e502deb525727d74ecc36ff57
+Homepage: https://ollama.com
+Description: vietinių kalbos modelių serveris (CPU ir Vulkan)
+ Ollama leidžia vietoje paleisti didelius kalbos modelius (Llama, Qwen,
+ Gemma ir kt.). Paketas — oficialus Ollama archyvas be CUDA bibliotekų:
+ modeliai skaičiuojami procesoriumi arba per Vulkan (AMD / Intel / NVIDIA
+ GPU). Tarnyba ollama.service klauso tik 127.0.0.1:11434, modeliai —
+ /var/lib/ollama.
+
