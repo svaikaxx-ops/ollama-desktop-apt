@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Wed, 25 Nov 2026 19:42:48 +0000
+Description: ollama-desktop (Debian trixie)
+Label: ollama-desktop
+Origin: ollama-desktop
+Suite: stable
+MD5Sum:
+ 66990e504496c6398f049a15c8c4ec3a            12639 main/binary-amd64/Packages
+ 5e265844334a76658755ac1cdaaa82ef             3359 main/binary-amd64/Packages.gz
+SHA1:
+ dbc3b10eab43991c77c63c76f577cd12ec2a0726            12639 main/binary-amd64/Packages
+ 5551ba5af77c7632ac295a18fad5c4f1360d2552             3359 main/binary-amd64/Packages.gz
+SHA256:
+ 5590b925de33c96b4564ea4c3a4fb520d34a154b94c4b447fb5fc75510b0760d            12639 main/binary-amd64/Packages
+ d783dd47ce4ac1c15e015b5b414c9376f4c538e123b59870ab16fe3396edf4ca             3359 main/binary-amd64/Packages.gz
+SHA512:
+ 5cb0953b6edea29cb5a7c69aff0f85773fcd50ea08f5c3201d489eeb9de0cf304c247a2b15cb372982800ee0aee2ea071ab1be1448be26ddad0043fc183066fb            12639 main/binary-amd64/Packages
+ e5329433d281e38c9cdc4c7a681bf19b7ca6ea14ff6792f17420c1de13871395cb7e87acf47916021157bd0fe6dd4730f4fead0fc053d3c210c35fd52b3af48d             3359 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQb/TPytTWy7BFcwPYUVYSGCWwBjwUCawc6OAAKCRAUVYSGCWwB
+j5MNAP0fHlZ7okwL2tHZ1O3KU8uu2TbseA7xwIwRRij9d7X3TAEAyhepDgGElwXB
+KJkiPLhyUcONjYhOrm2lvQPOieyYyAA=
+=3tnL
+-----END PGP SIGNATURE-----

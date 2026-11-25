@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="lt">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ollama-desktop apt</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 46rem; margin: 2rem auto; padding: 0 1rem; }
+  pre { background: rgba(127,127,127,.15); padding: .8rem; overflow-x: auto; border-radius: 6px; }
+  code { font-family: ui-monospace, monospace; }
+</style>
+<h1>ollama-desktop — apt saugykla</h1>
+<p>AI darbalaukis Linux'ui (Debian 13 „trixie“, amd64).</p>
+<h2>Diegimas</h2>
+<pre><code>sudo curl -fsSLo /usr/share/keyrings/ollama-desktop-archive-keyring.gpg \
+  https://svaikaxx-ops.github.io/ollama-desktop-apt/ollama-desktop-archive-keyring.gpg
+sudo curl -fsSLo /etc/apt/sources.list.d/ollama-desktop.sources \
+  https://svaikaxx-ops.github.io/ollama-desktop-apt/ollama-desktop.sources
+sudo apt update &amp;&amp; sudo apt install ollama-desktop</code></pre>
+<p>Atnaujinimai: <code>sudo apt update &amp;&amp; sudo apt upgrade</code>.</p>
+<h2>Įdiegiamas atvaizdas (ISO)</h2>
+<p>Debian 13 + ollama-desktop: gyva sesija ir diegiklis. Atsisiųsti —
+<a href="https://github.com/svaikaxx-ops/ollama-desktop-apt/releases/latest">naujausia laida</a>
+(<code>ollama-desktop-*-amd64.iso</code>, <code>SHA256SUMS</code>, <code>SHA256SUMS.sign</code>).</p>
+<pre><code>gpgv --keyring ./ollama-desktop-archive-keyring.gpg SHA256SUMS.sign SHA256SUMS &amp;&amp; sha256sum -c SHA256SUMS
+sudo dd if=ollama-desktop-*-amd64.iso of=/dev/sdX bs=4M conv=fsync   # sdX — USB raktas</code></pre>
+<p>Parašo raktas: <code>1BFD 33F2 B535 B2EC 115C C0F6 1455 8486 096C 018F</code> (ed25519, galioja iki 2031-11-19).</p>
+</html>
